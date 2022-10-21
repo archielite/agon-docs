@@ -4,9 +4,9 @@
 
 Go to Admin -> Settings -> General to activate your license
 
-![Image](https://live.staticflickr.com/65535/51714461156_24821fc934_b.jpg)
+![Image](/agon/images/license-page.jpg)
 
-If you don't know how to get purchase code, check this article: https://help.market.envato.com/hc/en-us/articles/202822600-Where-Is-My-Purchase-Code
+If you don't know how to get purchase code, check [this article](https://help.market.envato.com/hc/en-us/articles/202822600-Where-Is-My-Purchase-Code).
 
 ::: warning
 If you can't activate your license, please create a ticket on https://support.archielite.com, our dev team will support you. Don't try to activate it many times, your domain & IP will be added to blacklist.

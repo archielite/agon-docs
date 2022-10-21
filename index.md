@@ -2,9 +2,9 @@
 
 ## Introduction
 
-Agon is Multipurpose Agency script using Laravel 8.x. It's a product built on Botble CMS.
+Agon is Laravel Multipurpose Agency script using Laravel 8.x. It's a product built on Botble CMS.
 
-Created: _Dec 1st, 2022_
+Created: _Oct 24th, 2022_
 
 By: [Archi Elite](https://archielite.com)
 
@@ -21,27 +21,40 @@ Admin Area: [https://agon.archielite.com/admin](https://agon.archielite.com/admi
 
 Username: `admin`
 
-Password: `159357`
+Password: `12345678`
+
+## Features
+
+- Fully Ecommerce features: product catalogs, product attributes, product variations, product collections, discounts, shipping…
+    - Sell Simple or Variable Products
+    - Built-in Order Tracking page
+    - Unlimited Categories & Sub-Categories
+    - Filter Products (e.g: by size, color, brands, categories, etc.)
+    - Optional Wishlist & Compare
+    - Product Deals
+    - Gallery lightbox for product images
+    - Product Image Zoom
+    - Color, Label, and Image Swatches
+    - Product Quick View
+    - Frequently Bought Together
+    - Advanced Typography
+    - Single checkout page
+    - Support many payment methods: PayPal, Stripe, Paystack, Razorpay, Mollie and SSLCommerz.
+    - Guest checkout supported.
+- Multi-language, unlimited languages support.
+- Multi-currency, unlimited currencies support.
+- Full RTL support.
+- Page, blog, menu, contact, newsletter, slider… modules are provided with the use of components to avoid boilerplate code.
+- Powerful media system, also support Amazon S3, DigitalOcean Spaces
+- SEO & sitemap support: access sitemap.xml to see more.
+- Google Analytics: display analytics data in admin panel.
+- Translation tool: easy to translate front theme and admin panel to your language.
+- Beautiful theme is ready to use.
+- Powerful Permission System: Manage user, team, role by permissions. Easy to manage user by permissions.
+- Admin template comes with color schemes to match your taste.
+- Fully Responsive: Compatible with all screen resolutions.
+- Coding Standard: All code follow coding standards PSR-12 and best practices.
 
 ## Archi Elite Team
 
 Visit us at [https://archielite.com](archielite.com)
-
-<a name="why_choose_us"></a>
-## Why choose us
-
-Coding Standard: All code follow coding standards PSR-2 and best practices.
-
-
-Fully Responsive: Compatible with all screen resolutions
-
-![Responsive](/images/responsive.png)
-
-
-Powerful Permission System: Manage user, team, role by permissions. Easy to manage user by permissions.
-
-Page, blog, menu, contact modules are provided with the use of components to avoid boilerplate code.
-
-A vast number of jQuery components are provided, which helps you save time.
-
-Admin template comes with color schemes to match your taste.
