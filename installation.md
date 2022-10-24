@@ -3,7 +3,7 @@
 ## Requirement
 
 - Apache, nginx, or another compatible web server.
-- PHP >= 7.3
+- PHP >= 8.0
 - MySQL Database server
 - BCMath PHP Extension
 - Ctype PHP Extension
@@ -22,8 +22,8 @@
 Open your php configuration file php.ini and change the following settings.
 
 ```ini
-memory_limit = 64M
-max_execution_time = 300
+memory_limit = 128M
+max_execution_time = 600
 ```
 
 If you are using Cpanel, you can follow [this article](https://chemicloud.com/kb/article/how-to-increase-the-php-memory-limit-in-cpanel/) to change your PHP memory limit settings.
@@ -43,7 +43,7 @@ If you're a Laravel developer and you want to customize our source code in `plat
 
 - Upload all files into the root folder of your hosting (normally, it is`public_html`).
 - Create a database and import data from `database.sql` (it's located in source code).
-  ![Database](/agon/images/directory-and-database.png)
+  ![Database](/images/directory-and-database.png)
 - Update your database credentials and `APP_URL` in `.env`
   ![Env](/images/env-example.png)
 - Go to `/admin` to access to admin panel.
@@ -71,7 +71,6 @@ If you're a Laravel developer and you want to customize our source code in `plat
 
 - If you're pulled source code from GIT server:
     - Run `php artisan vendor:publish --tag=cms-public --force`
-    - Run `php artisan cms:theme:assets:publish`
 
 - Run web locally:
     - Change `APP_URL` in `.env` to `APP_URL=http://localhost:8000`
