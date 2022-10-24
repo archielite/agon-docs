@@ -12,43 +12,43 @@ You can use commands on your localhost or on VPS to quick manage backups.
 
 - Create a backup.
 
-```bash
+```shell
 php artisan cms:backup:create [name of backup]
 ```
 
 Ex:
 
-```bash
+```shell
 php artisan cms:backup:create "Backup latest data" --description="This is a demo backup"
 ```
 
 - Restore a backup
 
-```bash
+```shell
 php artisan cms:backup:restore [backup date]
 ```
 
 `[backup date]` is an optional param, if you don't provide backup date, it will restore the latest backup.
 
 Ex:
-```bash
+```shell
 php artisan cms:backup:restore 2020-04-28 10-05-24
 ```
 
 - Delete a backup
 
-```bash
+```shell
 php artisan cms:backup:remove [backup date]
 ```
 
 Ex: 
 
-```bash
+```shell
 php artisan cms:backup:remove 2020-04-28 10-05-24
 ```
 
 - List all backups:
 
-```bash
+```shell
 php artisan cms:backup:list
 ```
