@@ -24,29 +24,29 @@ Delete folder /vendor and run composer install to re-install vendor packages.
 Run command:
 
 ```shell
-php artisan cms:theme:rename [current-name] [new-name]
+php artisan cms:theme:rename {current_theme} {new_theme}
 ```
 
-Ex: `php artisan cms:theme:rename martfury shop`
+Ex: `php artisan cms:theme:rename agon shop`
 
-Change your theme info in `platform/themes/[new-name]/theme.json`.
+Change your theme info in `platform/themes/{new_theme}/theme.json`.
 
 ### 1.2 Manually
 
-1. Rename folder `platform/themes/[current-theme-name]` to `platform/themes/[new-name]`.
-2. Rename folder `public/themes/[current-theme-name]` to `public/themes/[new-name]`.
-3. Open table settings and replace all key theme-[current-theme-name] to `theme-[new-name]`.
-4. Open table widgets and replace all values in theme column to the new name `[new-name]`.
-5. Change your theme info in `platform/themes/[new-name]/theme.json`.
+1. Rename folder `platform/themes/{current_theme}` to `platform/themes/{new_theme}`.
+2. Rename folder `public/themes/{current_theme}` to `public/themes/{new_theme}`.
+3. Open table settings and replace all key `theme-{current_theme}` to `theme-{new_theme}`.
+4. Open table widgets and replace all values in theme column to the new name `{new_theme}`.
+5. Change your theme info in `platform/themes/{new_theme}/theme.json`.
 
 
 ## 2. Change public theme name only
 
-By this way, you still keep update from us, it just changes theme info in public places, theme in `platform/themes/[current-theme-name]` still be updated when upgrading using System Updater.
+By this way, you still keep update from us, it just changes theme info in public places, theme in `platform/themes/{current_theme}` still be updated when upgrading using System Updater.
 
-1. Rename folder `public/themes/[current-theme-name]` to `public/themes/[new-name]`.
+1. Rename folder `public/themes/{current_theme}` to `public/themes/{new_theme}`.
 2. Add to .env
    ```
    CMS_THEME_PUBLIC_NAME=new-name
    ```
-3. Copy file `platform/themes/[current-theme-name]/theme.json` to `public/themes/[new-name]/theme.json` then change to your theme info.
+3. Copy file `platform/themes/{current_theme}/theme.json` to `public/themes/{new_theme}/theme.json` then change to your theme info.
