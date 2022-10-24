@@ -47,8 +47,8 @@ Example:
 
 ## Edit Email template
 
-- Email template using HTML & system variables.You need to know HTML and Laravel blade.
+- Email template using HTML & and click dropdown **Variables* to insert available `variable`. You need to know HTML and Laravel blade.
 
 ![](/images/mail-6.jpg)
 
-![](/images/mail-7.jpg)
+![](/images/mail-7.png)
