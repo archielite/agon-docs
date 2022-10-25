@@ -24,20 +24,11 @@ Edit **Logo** and **Favicon**. Go to Admin -> Appearance -> Theme options -> Log
 
 ![](/agon/images/theme-options-logo-and-favicon.png)
 
-Here, you can edit the menu.
-
-![](/agon/images/theme-options-edit-menu.png)
-
 Edit **Contact Us** button. Go to Admin -> Appearance -> Theme options -> Header tab.
 
 ![](/agon/images/theme-options-contact-us-btn.png)
 
 ## Footer
-
-Customize footer information & menu.
-Go to Admin -> Appearance -> Widgets -> Edit widgets at **Pre footer sidebar** section and **Footer sidebar** section.
-
-![](/agon/images/theme-options-footer.png)
 
 Edit copyright text
 
