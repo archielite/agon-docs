@@ -24,10 +24,6 @@ Edit **Logo** and **Favicon**. Go to Admin -> Appearance -> Theme options -> Log
 
 ![](/agon/images/theme-options-logo-and-favicon.png)
 
-Edit **Menu**. Go to Admin -> Appearance -> Menus -> Choose the "Main Menu" and click edit button.
-
-![](/agon/images/theme-options-main-menu.png)
-
 Here, you can edit the menu.
 
 ![](/agon/images/theme-options-edit-menu.png)
@@ -54,10 +50,6 @@ Go to Admin -> Appearance -> Theme options -> General tab
 Edit social links, go to Admin -> Appearance -> Theme options -> Social links tab
 
 ![](/agon/images/theme-options-social-links.png)
-
-Edit bottom footer menu, go to Admin -> Appearance -> Menus -> Edit "Footer bottom menu"
-
-![](/agon/images/theme-options-footer-menu.png)
 
 ## Others
 
