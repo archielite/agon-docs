@@ -4,7 +4,7 @@
 
 Agon is Laravel Multipurpose Agency script using Laravel 8.x. It's a product built on Botble CMS.
 
-Created: _Oct 24th, 2022_
+Created: _Oct 26th, 2022_
 
 By: [Archi Elite](https://archielite.com)
 
