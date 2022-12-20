@@ -4,7 +4,7 @@
 
 Go to Admin -> Appearance -> Theme options (tab Page) to select a homepage.
 
-![](/agon/images/homepage-setting.png)
+![](../images/homepage-setup.png)
 
 ## Customize homepage
 
