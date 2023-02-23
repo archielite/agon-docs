@@ -4,7 +4,7 @@
 
 Go to Admin -> Settings -> General to activate your license
 
-![Image](/images/license-page.jpg)
+![Image](../images/license.png)
 
 If you don't know how to get purchase code, check [this article](https://help.market.envato.com/hc/en-us/articles/202822600-Where-Is-My-Purchase-Code).
 
