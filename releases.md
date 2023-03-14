@@ -1,3 +1,3 @@
 # Release Notes
 
-Check out the release notes on [CodeCanyon](https://codecanyon.net/item/agon-laravel-multipurpose-agency-script/40473108)
+Check out the release notes on [CodeCanyon](https://1.envato.market/yRzr6B)
