@@ -1,2 +1,11 @@
 .idea
 .DS_Store
+theme-rename.md
+plugin-backup.md
+ssl.md
+upgrade.md
+usage-analytics.md
+usage-email.md
+usage-media-bunnycdn.md
+usage-media-s3.md
+usage-media-wasabi.md
