@@ -53,12 +53,12 @@ If you're a Laravel developer and you want to customize our source code in `plat
 
 - Upload all files into the root folder of your hosting (normally, it is`public_html`).
 - Create a database and import data from `database.sql` (it's located in source code).
-  ![Database](/images/directory-and-database.png)
+  ![Database](./images/directory-and-database.png)
 - Update your database credentials and `APP_URL` in `.env`
-  ![Env](/images/env-example.png)
+  ![Env](./images/env-example.png)
 - Go to `/admin` to access to admin panel.
 - The default admin account is `admin` - `12345678`.
-  ![Login](/images/admin-page.png)
+  ![Login](./images/admin-page.png)
 
 ## Install locally or in VPS (manual)
 
@@ -67,7 +67,7 @@ If you're a Laravel developer and you want to customize our source code in `plat
 :::
 
 - Update your database credentials and `APP_URL` in `.env`
-  ![Env](/images/env-example.png)
+  ![Env](./images/env-example.png)
 
 - Using sample data:
     - Import database from `database.sql`.
