@@ -78,6 +78,6 @@ The shortcode of the Newsletter subscribe form is `newsletter`.
 
 ![](./images/homepage-shortcode-how-it-works.png)
 
-There are have alot of shortcodes in the theme. You can check them in the **Shortcode** dropdown menu in the editor.
+There are have a lot of shortcodes in the theme. You can check them in the **Shortcode** dropdown menu in the editor.
 
 ![](./images/homepage-available-shortcodes.png)
