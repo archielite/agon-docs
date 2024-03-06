@@ -4,8 +4,6 @@
 
 Go to Admin -> Appearance -> Theme options (tab Page) to select a homepage.
 
-![](./images/homepage-setup.png)
-
 ## Customize homepage
 
 Go to Admin -> Pages -> Select Homepage.
