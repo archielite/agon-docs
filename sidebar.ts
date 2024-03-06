@@ -34,7 +34,7 @@ export default [
       { text: 'Media - Setup BunnyCDN', link: '/agon/usage-media-bunnycdn' },
       { text: 'Media - Setup Wasabi', link: '/agon/usage-media-wasabi' },
       { text: 'Setup email', link: '/agon/usage-email' },
-      { text: 'Invoice template', link: '/martfury/invoice-template' },
+      { text: 'Invoice template', link: '/agon/invoice-template' },
     ],
   },
   {
