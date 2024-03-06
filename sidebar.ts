@@ -36,11 +36,5 @@ export default [
       { text: 'Setup email', link: '/agon/usage-email' },
       { text: 'Invoice template', link: '/agon/invoice-template' },
     ],
-  },
-  {
-    text: 'Development',
-    items: [
-      { text: 'Rename theme', link: '/agon/theme-rename' },
-    ]
   }
 ] satisfies DefaultTheme.SidebarItem[]
